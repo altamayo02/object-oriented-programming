@@ -1,0 +1,3 @@
+@import '../utils/tabulator/css/tabulator.min.css';
+/* elija de ../bootswatch/ la carpeta del tema de su preferencia */
+@import '../utils/bootswatch/cerulean/bootstrap.min.css';

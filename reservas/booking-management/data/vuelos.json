@@ -1,0 +1,146 @@
+[
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT1H",
+      "id": "T-QVLWY",
+      "origen": "Manizales",
+      "destino": "Cali"
+    },
+    "estado": "A_TIEMPO",
+    "fechaHora": "2024-01-01T00:00",
+    "id": "V-DDGHO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 800000,
+      "duracion": "PT15H40M",
+      "id": "T-WWCHL",
+      "origen": "Manizales",
+      "destino": "Paris"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2024-04-01T14:00",
+    "id": "V-F0Q3B",
+    "avion": {
+      "modelo": "Boeing 837",
+      "placa": "A-XM8PL"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 800000,
+      "duracion": "PT15H40M",
+      "id": "T-WWCHL",
+      "origen": "Manizales",
+      "destino": "Paris"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-12-31T22:00",
+    "id": "V-TR5GZ",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "T-WX7QX",
+      "origen": "Medellín",
+      "destino": "Manizales"
+    },
+    "estado": "CANCELADO",
+    "fechaHora": "2023-05-18T22:16",
+    "id": "V-2Z8JN",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 800000,
+      "duracion": "PT15H40M",
+      "id": "T-WWCHL",
+      "origen": "Manizales",
+      "destino": "Paris"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-04-20T22:19",
+    "id": "V-GW80B",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 200000,
+      "duracion": "PT1H20M",
+      "id": "T-5ZTDD",
+      "origen": "Manizales",
+      "destino": "Medellín"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-06-03T16:08",
+    "id": "V-AG9MB",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 800000,
+      "duracion": "PT15H40M",
+      "id": "T-WWCHL",
+      "origen": "Manizales",
+      "destino": "Paris"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-06-03T22:09",
+    "id": "V-IUDYJ",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT1H",
+      "id": "T-S8EGE",
+      "origen": "Cali",
+      "destino": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-06-04T11:10",
+    "id": "V-Q4VYE",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 200000,
+      "duracion": "PT1H20M",
+      "id": "T-5ZTDD",
+      "origen": "Manizales",
+      "destino": "Medellín"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-06-04T12:34",
+    "id": "V-85VLR",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    }
+  }
+]

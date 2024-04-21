@@ -2,8 +2,9 @@ package edu.prog2.model;
 
 import java.time.Duration;
 import java.time.LocalDate;
+import org.json.JSONObject;
 
-public class Movie {
+public class Movie implements IFormatCSV {
     private String nombre;
     private Duration duracion;
     private LocalDate fechaEstreno;
@@ -14,15 +15,25 @@ public class Movie {
         this("", Duration.ZERO, LocalDate.MIN, Genre.DESCONOCIDO, Double.NaN);
     }
 
-    public Movie(
-      String nombre, Duration duracion, LocalDate fechaEstreno, 
-      Genre genero, double recaudo
+    public Movie(String nombre, Duration duracion,
+        LocalDate fechaEstreno, Genre genero, double recaudo
     ) {
         this.nombre = nombre;
         this.duracion = duracion;
         this.fechaEstreno = fechaEstreno;
         this.genero = genero;
         this.recaudo = recaudo;
+    }
+    
+    // Necesita los accesores de cada atributo
+    public Movie(JSONObject json) {
+        this(
+            json.getString("nombre"), 
+            Duration.parse(json.getString("duracion")), 
+            LocalDate.parse(json.getString("fechaEstreno")), 
+            json.getEnum(Genre.class, "genero"), 
+            json.getDouble("recaudo")
+        );
     }
 
     public String getNombre() {
@@ -39,12 +50,6 @@ public class Movie {
 
     public void setDuracion(Duration duracion) {
         this.duracion = duracion;
-    }
-
-    public String strDuracion() {
-        long hh = duracion.toHours();
-        long mm = duracion.toMinutesPart();
-        return String.format("%02d:%02d", hh, mm);        
     }
 
     public LocalDate getFechaEstreno() {
@@ -71,11 +76,29 @@ public class Movie {
         this.recaudo = recaudo;
     }
 
+    public String strDuracion() {
+        long hh = duracion.toHours();
+        long mm = duracion.toMinutesPart();
+        return String.format("%02d:%02d", hh, mm);        
+    }
+
     @Override
     public String toString() {
         return String.format(
            "%-30s %-6s %s %-18s %13.2f", 
            nombre, strDuracion(), fechaEstreno.toString(), genero, recaudo
         );
+    }
+
+    @Override
+    public String toCSV() {
+        return String.format(
+            "%s,%s,%s,%s,%f%n",
+            nombre, duracion, fechaEstreno, genero, recaudo
+        );
+    }
+
+    public JSONObject toJSONObject() {
+        return new JSONObject(this);
     }
 }

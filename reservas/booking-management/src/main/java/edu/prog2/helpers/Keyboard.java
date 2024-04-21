@@ -14,6 +14,7 @@ public class Keyboard {
     public static Scanner sc = new Scanner(con.reader()).useDelimiter("[\n]+|[\r\n]+");
 
     // TODO - Ask if it's possible to prevent the user from spamming \n (\u0008 backspace?)
+    // TODO - Specify required lengths in error messages
 
     private Keyboard() {}
 
@@ -37,8 +38,9 @@ public class Keyboard {
             if (value.length() != 0 && (value.length() < from || value.length() > to)) {
                 System.out.printf("%sLongitud fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+
         return value;
     }
 
@@ -77,8 +79,9 @@ public class Keyboard {
             if (value != 0 && (value < from || value > to)) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+
         return value;
     }
 
@@ -117,8 +120,9 @@ public class Keyboard {
             if (value != 0 && (value < from || value > to)) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+
         return value;
     }
 
@@ -157,8 +161,9 @@ public class Keyboard {
             if (value != 0 && (value < from || value > to)) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+
         return value;
     }
 
@@ -233,8 +238,9 @@ public class Keyboard {
             if (date.isBefore(dateFrom) || date.isAfter(dateTo)) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+        
         return date;
     }
 
@@ -254,9 +260,8 @@ public class Keyboard {
                 }
             } catch (DateTimeParseException dtpe) {
                 ok = false;
-                System.out.printf(
-                   "%sFecha u hora erróneas.%s%n%s", Utils.RED, Utils.RESET, message
-                );
+                System.out.printf("%sFecha u hora erróneas.%n", Utils.RED);
+                System.out.printf("Formato esperado: yyyy-MM-dd HH:mm%s%n%s", Utils.RESET, message);
             }
         } while (!ok);
 
@@ -265,8 +270,8 @@ public class Keyboard {
 
     public static LocalDateTime readDateTime(String from, String to, String message) {
         LocalDateTime dateTime;
-        LocalDateTime dateTimeFrom = LocalDateTime.parse(from);
-        LocalDateTime dateTimeTo = LocalDateTime.parse(to);
+        LocalDateTime dateTimeFrom = LocalDateTime.parse(from.replace(" ", "T"));
+        LocalDateTime dateTimeTo = LocalDateTime.parse(to.replace(" ", "T"));
         if (dateTimeFrom.isAfter(dateTimeTo)) {
             LocalDateTime tempFrom = dateTimeFrom;
             dateTimeFrom = dateTimeTo;
@@ -279,15 +284,16 @@ public class Keyboard {
             if (dateTime.isBefore(dateTimeFrom) || dateTime.isAfter(dateTimeTo)) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+
         return dateTime;
     }
 
-    private static Duration toDuration(String strDuration) {
-        String[] arrDuration = strDuration.trim().split(":");
+    private static Duration toDuration(String durationString) {
+        String[] arrDuration = durationString.trim().split(":");
         if (arrDuration.length != 2) {
-            throw new IllegalArgumentException("Se esperaba HH:MM.");
+            throw new IllegalArgumentException("Se esperaba HH:mm.");
         }
     
         return Duration.parse(
@@ -334,12 +340,14 @@ public class Keyboard {
             if (duration.compareTo(durationFrom) < 0 || duration.compareTo(durationTo) > 0) {
                 System.out.printf("%sValor fuera de rango.%s%n", Utils.RED, Utils.RESET);
                 continue;
-            }
-        } while (false);
+            } else break;
+        } while (true);
+        
         return duration;
     }
 
-    // This probably does roughly the same as Utils.optionsString()
+    // This does roughly the same as Utils.optionsString(),
+    // except it builds options out of an enum rather than a String array
     @SuppressWarnings("unchecked")
     public static <T extends Enum<T>> T readEnum(Class<T> c, String message) {
         message = String.format("%s%s%s", Utils.BLUE, message, Utils.RESET);
@@ -351,7 +359,8 @@ public class Keyboard {
         }
         
         message = String.format(
-            "%s%nElija una opción entre 1 y %d: ", message, allItems.length
+            "%s%n%sElija una opción entre 1 y %d:%s ",
+            message, Utils.BLUE, allItems.length, Utils.RESET
         );
 
         do {

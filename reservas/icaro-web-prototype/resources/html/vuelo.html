@@ -1,0 +1,30 @@
+<html>
+    <form id="form-vuelos">
+        <fieldset>
+            <div class="form-group">
+                <label for="fecha-hora" class="form-label mt-0">Fecha y hora del vuelo</label>
+                <input type="datetime-local" class="form-control" id="fecha-hora" name="fecha-hora" placeholder="Fecha y hora" />
+            </div>
+
+            <div class="form-group">
+                <label for="trayectos" class="form-label mt-4">Trayecto</label>
+                <select class="form-select" id="trayectos" name="trayectos"></select>
+            </div>
+
+            <div class="form-group">
+                <label for="aviones" class="form-label mt-4">Avión</label>
+                <select class="form-select" id="aviones" name="aviones"></select>
+            </div>
+
+            <div class="form-group">
+                <label for="estados" class="form-label mt-4">Estado</label>
+                <select class="form-select" id="estados" name="estados">
+                    <option value="PROGRAMADO">Programado</option>
+                    <option value="A_TIEMPO">A tiempo</option>
+                    <option value="CANCELADO">Cancelado</option>
+                    <option value="RETRASADO">Retrasado</option>
+                </select>
+            </div>
+        </fieldset>
+    </form>
+</html>

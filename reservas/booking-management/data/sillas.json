@@ -1,0 +1,2252 @@
+[
+  {
+    "posicion": "01A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "WHISKY",
+    "id": "S-SM937",
+    "menu": "POLLO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "VINO",
+    "id": "S-UQ5JK",
+    "menu": "POLLO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "OPORTO",
+    "id": "S-M4SOF",
+    "menu": "PESCADO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-KT95L",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-4X9CR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-5DTTV",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-RCSER",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-UZ2ZV",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-9290I",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-0X76B",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-KXVBP",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-NMDTJ",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-H17PB",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-KNAXZ",
+    "avion": {
+      "modelo": "Airjet 3000",
+      "placa": "HK 2006"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-ERMCN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-TXXI1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-VGAFM",
+    "menu": "POLLO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": false
+  },
+  {
+    "posicion": "01F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-N5JMP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-45E05",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-KTJIZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-FB0G9",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-0QI2D",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-WCRPZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-DCEVT",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-NTBHQ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-2258N",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-X0EO9",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-YXTO8",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-ZIAMZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-VZ4MJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "S-66B4Y",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "S-G2CF9",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "S-XU1DI",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "S-ZAYBL",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "S-WLGMR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "S-D4QLC",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "S-A4RTJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "S-00HGT",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "S-S4IVY",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "S-RQD2D",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "S-W36NT",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "S-HKVZZ",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "S-UHHT5",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "S-4X2O1",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "S-3YQ6J",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "S-7T01V",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "S-XKVKK",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "S-AB6ZW",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "S-ACJNK",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "S-VASTN",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "S-7UN3A",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "S-175UE",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "S-TK5IL",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "S-GJC3L",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "S-SRROI",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "S-2W2X3",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "S-ZA6Z5",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "S-9P8T2",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "S-605TM",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "S-XEQ1U",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "S-ROCZ7",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "S-08LL9",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "S-P0XKH",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "S-X1XET",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "S-SO2YG",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "S-27310",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "S-KRR6O",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "S-92OJ4",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "S-G02BQ",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "S-UXEPL",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "S-GSZ27",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "S-40U1I",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "S-Q9U8N",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "S-7RRTD",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "S-S4ZBK",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "S-BJ9WC",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "S-SEF5U",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "S-KP647",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "S-OXCA4",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "S-766CG",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "S-WWX0D",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "S-JG230",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "S-B4Y7G",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "S-329LN",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "S-04V84",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "S-EG4YU",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "S-QTZYB",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "S-4JH1K",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "S-OI2PY",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "S-2TYJV",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "S-MNPGK",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "S-XXCZW",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 16,
+    "id": "S-HSAB2",
+    "avion": {
+      "modelo": "Megacraft Keen 2",
+      "placa": "HK2005"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-TWZBJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-FMKBF",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-KB0DK",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-5K6YA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-3YUZ1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-8IJKN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-1BCZT",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-LDF5M",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-LPLCR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-CCN7P",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "S-G10HF",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-KFSUG",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-0ZKDD",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-E3BI3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "S-RQXF7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "S-WPYHP",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "S-92DHB",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "S-4Q3VU",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "S-11ZDW",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "S-TNA03",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "S-O530Z",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "S-BL609",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "S-7TDZI",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "S-QDKCD",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "S-DKVJD",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "S-GBZYA",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "S-QXK49",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "S-X0Y8E",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "S-0QNJE",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "S-WID92",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "S-TTH89",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "S-SZIQW",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "S-O9UOP",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "S-2VY4S",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "S-0ECQV",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "S-DGM4W",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "S-R7BIX",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "S-S4FMB",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "S-DKBO6",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "S-Y7XWN",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "S-ODJU0",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "S-HIQI4",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "S-DXEUY",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "S-S1LZU",
+    "avion": {
+      "modelo": "Airbus A321XLR",
+      "placa": "HK2023"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-US09F",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-S9FZ6",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-RP44B",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-4ZOMZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-3WA2B",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-E63LQ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-3RPXJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-3K82M",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-K89YY",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-54A8B",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-8ZZ70",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-AEJJH",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-PKH0A",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-8IRFD",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "S-9RA3I",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "S-60FPN",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "S-8I840",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "S-LUUAV",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "S-YCVLG",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "S-8FTRT",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "S-78LML",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "S-A6EZ7",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "S-IF5F5",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "S-U3XSC",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "S-SFO07",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "S-6FK2H",
+    "avion": {
+      "modelo": "Vivax 113",
+      "placa": "KVJ 71"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-WOBT4",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-231VE",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-MQD1L",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S-1MUB7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-WQ28I",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-2OA2T",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-HBW5A",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "S-5D709",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": 65,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-GQ3TG",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": 66,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-EB0JV",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": 67,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-TNXIH",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": 68,
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "S-UU50U",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03E",
+    "columna": 69,
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "S-34KMH",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": 70,
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "S-OR8CN",
+    "avion": {
+      "modelo": "Vivax 112",
+      "placa": "KVJ 70"
+    },
+    "disponible": true
+  }
+]

@@ -1,4 +1,0 @@
-digraph "edu.prog2:helpers:jar:1.0-SNAPSHOT" { 
-	"edu.prog2:helpers:jar:1.0-SNAPSHOT" -> "junit:junit:jar:4.11:test" ; 
-	"junit:junit:jar:4.11:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
- } 

@@ -1,0 +1,245 @@
+# PRUEBAS
+
+## USUARIOS
+
+### Listar todos
+GET http://localhost:4567/usuarios
+
+### Buscar por ID
+GET http://localhost:4567/usuarios/U00000
+
+### Añadir a BD
+POST http://localhost:4567/usuarios
+Content-Type: application/json
+
+{
+    "id" : "U00003",
+    "nombres" : "AKJWNKLJAGAG",
+    "apellidos" : "SLAJVAJVNBSB",
+    "perfil" : "ALWVASGVKNSDGN",
+    "contrasenia" : "LSKJDVÑLKSMDHMNSEG",
+    "tipo": "CLIENTE",
+}
+
+### Actualizar algunos atributos
+PUT http://localhost:4567/usuarios/U00003
+content-type: application/json
+
+{
+    "nombres": "Sonic",
+    "apellidos": "Edison",
+    "perfil": "edisonic33",
+    "contrasenia": "gn9823u90fui98y32th",
+    "tipo": "AUXILIAR",
+}
+
+### Eliminar de BD
+DELETE http://localhost:4567/usuarios/U-87SYG
+
+### Autenticar en BD
+POST http://localhost:4567/usuarios/autenticar
+Content-Type: application/json; charset=utf-8
+
+{
+    "perfil" : "Pelu123",
+    "contrasenia": "123"
+}
+
+
+
+## TRAYECTOS
+
+### Listar todos
+GET http://localhost:4567/trayectos
+
+### Añadir a BD
+POST http://localhost:4567/trayectos
+Content-Type: application/json; charset=utf-8
+
+{
+    "origen": "Manizales",
+    "destino": "Paris",
+    "costo": 800000.6654,
+    "duracion": "PT15H40M"
+}
+
+### Modificar atributos
+PUT http://localhost:4567/trayectos/T-5ZTDD
+Content-Type: application/json; charset=utf-8
+
+{
+    "costo": 200000,
+    "duracion": "PT1H20M"
+}
+
+
+## AVIONES
+
+### Listar todos
+GET http://localhost:4567/aviones
+
+### Buscar por ID
+GET http://localhost:4567/aviones/HK+2006
+# ¿Esto ayuda en algo para una petición GET?
+Content-Type: application/json; charset=utf-8
+
+### Añadir a BD
+POST http://localhost:4567/aviones 
+Content-Type: application/json; charset=utf-8
+
+{
+    "placa" : "HK2023",
+    "modelo" : "Airbus A321XLR"
+}
+
+### Modificar atributos
+PUT http://localhost:4567/aviones/A-XM8PL
+Content-Type: application/json; charset=utf-8
+
+{
+    "modelo": "Boeing 837"
+}
+
+### Eliminar de BD
+DELETE http://localhost:4567/aviones/A-JH65E
+
+
+
+## SILLAS
+
+### Listar todas
+GET http://localhost:4567/sillas
+
+### Listar filtradas por avión
+GET http://localhost:4567/sillas/filtrar/HK2005
+
+### Buscar por ID
+GET http://localhost:4567/sillas/S-7UN3A
+### "
+GET http://localhost:4567/sillas/S-ZIAMZ
+
+### Buscar silla filtrada por parámetros
+GET http://localhost:4567/sillas/buscar/fila=1&columna=C&avion=HK2005
+
+### Añadir sillas a un avión en BD
+POST http://localhost:4567/sillas
+Content-Type: application/json; charset=utf-8
+
+{
+    "avion": "HK2023",
+    "filasEjecutivas": 4,
+    "totalSillas": 41
+}
+
+### Actualizar el menú, licor o disponibilidad de una silla
+PUT http://localhost:4567/sillas/S-VGAFM
+Content-Type: application/json; charset=utf-8
+
+{
+    "disponible": false,
+    "menu": "POLLO",
+}
+
+### Eliminar silla de BD
+DELETE http://localhost:4567/sillas/S-TNA03
+
+### Eliminar todas las sillas de un avión
+DELETE http://localhost:4567/sillas/eliminar/avion/HK2023
+
+### Contar sillas totales, ordenadas por avión
+GET http://localhost:4567/sillas/total
+
+
+
+## VUELOS
+
+### Listar todos
+GET http://localhost:4567/vuelos
+
+### Listar filtrados por origen y destino, a partir de una fecha y hora
+GET http://localhost:4567/vuelos/filtrar/fechaHora=2024-01-01T00:00&origen=Manizales&destino=Cali
+
+### Buscar por ID
+GET http://localhost:4567/vuelos/V-F0Q3B
+
+### Añadir a BD
+POST http://localhost:4567/vuelos 
+Content-Type: application/json; charset=utf-8
+
+{
+    "fechaHora": "2023-04-20T22:19:25",
+    "idTrayecto": "T-WWCHL",
+    "placaAvion": "HK2023",
+    "estado": "PROGRAMADO"
+}
+
+### Actualizar algunos atributos
+PUT http://localhost:4567/vuelos/V-2Z8JN
+Content-Type: application/json; charset=utf-8
+
+{
+    "fechaHora": "2023-05-18T22:16:30",
+    "idTrayecto": "T-WX7QX",
+    "idAvion": "HK2023",
+    "estado": "CANCELADO"
+}
+
+### Eliminar de BD
+DELETE http://localhost:4567/vuelos/V-DDGHO
+
+
+
+## RESERVAS
+
+### Listar todas
+GET http://localhost:4567/reservas
+
+### Listar filtradas por usuario
+GET http://localhost:4567/reservas/filtrar/usuario/U-00003
+
+### Listar filtradas por vuelo y disponibilidad
+GET http://localhost:4567/reservas/filtrar/vuelo/vuelo=V-DDGHO&disponible=false
+### "
+GET http://localhost:4567/reservas/filtrar/vuelo/vuelo=V-DDGHO&disponible=true
+
+### Buscar por ID
+GET http://localhost:4567/reservas/R-L296M
+
+### Contar reservas totales, filtradas por usuario
+GET http://localhost:4567/reservas/total/U-00000
+
+### Añadir a BD (en vuelos con fecha igual o superior a la actual)
+POST http://localhost:4567/reservas 
+Content-Type: application/json; charset=utf-8
+
+{
+    "idUsuario": "U-00135",
+    "idVuelo": "V-2Z8JN",
+    "idSilla": "S-E3BI3",
+    "menu": "VEGETARIANO",
+    "licor": "NINGUNO"
+}
+
+### Actualizar algunos atributos
+PUT http://localhost:4567/reservas/R-UGJWZ 
+Content-Type: application/json; charset=utf-8
+
+{
+    "idVuelo": "V-TR5GZ",
+    "idSilla": "S-DXEUY",
+    "cancelada": true
+}
+
+### Eliminar de BD
+DELETE http://localhost:4567/reservas/idReserva
+
+
+
+### StandardResponse(Response response, int status, String message)
+#GET http://localhost:4567/prueba1
+
+### StandardResponse(Response response, String message)
+#GET http://localhost:4567/prueba2
+
+### StandardResponse(Response response, int status, String message, JSONObject data)
+#GET http://localhost:4567/prueba5/HK+2006

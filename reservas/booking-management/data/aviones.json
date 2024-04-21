@@ -1,0 +1,34 @@
+[
+  {
+    "modelo": "Airjet 3000",
+    "placa": "HK 2006"
+  },
+  {
+    "modelo": "Megacraft Keen 2",
+    "placa": "HK2005"
+  },
+  {
+    "modelo": "Boeing 837",
+    "placa": "A-XM8PL"
+  },
+  {
+    "modelo": "Airbus A321XLR",
+    "placa": "HK2023"
+  },
+  {
+    "modelo": "Vivax 114",
+    "placa": "KVJ 73"
+  },
+  {
+    "modelo": "Vivax 113",
+    "placa": "KVJ 71"
+  },
+  {
+    "modelo": "Vivax 112",
+    "placa": "KVJ 70"
+  },
+  {
+    "modelo": "Person",
+    "placa": "TEST"
+  }
+]

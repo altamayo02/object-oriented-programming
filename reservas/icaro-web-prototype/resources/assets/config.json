@@ -1,0 +1,4 @@
+{
+    "url" : "http://localhost:4567",
+    "theme" : "./resources/bootswatch/flatly/bootstrap.min.css"
+}

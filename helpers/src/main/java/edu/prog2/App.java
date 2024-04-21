@@ -127,7 +127,7 @@ public class App {
             numKids++;
         } while (age != 0);
         // Edades sumadas / Número de niños (Ingresar el 0 no cuenta como niño)
-        avgAge = avgAge / (numKids - 1);
+        avgAge /= numKids - 1;
         System.out.printf("El promedio de edad de los niños es %.2f años.\n", avgAge);
     }
 

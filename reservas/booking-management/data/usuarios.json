@@ -1,0 +1,82 @@
+[
+  {
+    "apellidos": "Martínez Orozco",
+    "tipo": "ADMIN",
+    "contrasenia": "8e7a00f1daf1c2b7015459dd686856c2",
+    "id": "U-00000",
+    "perfil": "Kandelee",
+    "nombres": "Alejandro"
+  },
+  {
+    "apellidos": "Ocampo Agudelo",
+    "tipo": "ADMIN",
+    "contrasenia": "202cb962ac59075b964b07152d234b70",
+    "id": "U-00003",
+    "perfil": "Pelu123",
+    "nombres": "Juan Manuel"
+  },
+  {
+    "apellidos": "Donado",
+    "tipo": "ADMIN",
+    "contrasenia": "ffe7f0005d3fd1a0f857e1d0dd056a08",
+    "id": "U-00135",
+    "perfil": "galero456",
+    "nombres": "Galar"
+  },
+  {
+    "apellidos": "Corriendo",
+    "tipo": "AUXILIAR",
+    "contrasenia": "618540d838bafd5d80d5acd0ac510546",
+    "id": "U-00001",
+    "perfil": "ACDC1990",
+    "nombres": "Adepto"
+  },
+  {
+    "apellidos": "Ericsson",
+    "tipo": "AUXILIAR",
+    "contrasenia": "e80f17310109447772dca82b45ef35a5",
+    "id": "U-00002",
+    "perfil": "edisonic33",
+    "nombres": "Sony"
+  },
+  {
+    "apellidos": "Exitoso",
+    "tipo": "ADMIN",
+    "contrasenia": "202cb962ac59075b964b07152d234b70",
+    "id": "U-00004",
+    "perfil": "intoño425",
+    "nombres": "Intento"
+  },
+  {
+    "apellidos": "Dudoso",
+    "tipo": "AUXILIAR",
+    "contrasenia": "202cb962ac59075b964b07152d234b70",
+    "id": "U-00005",
+    "perfil": "intoño426",
+    "nombres": "Antento"
+  },
+  {
+    "apellidos": "Ocampo",
+    "tipo": "AUXILIAR",
+    "contrasenia": "202cb962ac59075b964b07152d234b70",
+    "id": "U-00006",
+    "perfil": "orgalor",
+    "nombres": "Juan David"
+  },
+  {
+    "apellidos": "Super",
+    "tipo": "ADMIN",
+    "contrasenia": "d9b1d7db4cd6e70935368a1efb10e377",
+    "id": "U-87SYG",
+    "perfil": "Super",
+    "nombres": "Super"
+  },
+  {
+    "apellidos": "ja",
+    "tipo": "CLIENTE",
+    "contrasenia": "d41d8cd98f00b204e9800998ecf8427e",
+    "id": "U-18954",
+    "perfil": "jajuy",
+    "nombres": "JA"
+  }
+]

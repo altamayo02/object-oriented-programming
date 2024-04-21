@@ -1,0 +1,180 @@
+[
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "costo": 100000,
+    "fechaHora": "2023-06-04T23:36",
+    "usuario": {
+      "apellidos": "Martínez Orozco",
+      "tipo": "ADMIN",
+      "contrasenia": "8e7a00f1daf1c2b7015459dd686856c2",
+      "id": "U-00000",
+      "nombres": "Alejandro",
+      "perfil": "Kandelee"
+    },
+    "id": "R-I4KZA",
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT1H",
+        "id": "T-QVLWY",
+        "origen": "Manizales",
+        "destino": "Cali"
+      },
+      "estado": "A_TIEMPO",
+      "fechaHora": "2024-01-01T00:00",
+      "id": "V-DDGHO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      }
+    },
+    "silla": {
+      "posicion": "01A",
+      "columna": 65,
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "WHISKY",
+      "id": "S-SM937",
+      "menu": "POLLO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "costo": 100000,
+    "fechaHora": "2023-06-04T23:36",
+    "usuario": {
+      "apellidos": "Ocampo Agudelo",
+      "tipo": "ADMIN",
+      "contrasenia": "202cb962ac59075b964b07152d234b70",
+      "id": "U-00003",
+      "nombres": "Juan Manuel",
+      "perfil": "Pelu123"
+    },
+    "id": "R-L296M",
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT1H",
+        "id": "T-QVLWY",
+        "origen": "Manizales",
+        "destino": "Cali"
+      },
+      "estado": "A_TIEMPO",
+      "fechaHora": "2024-01-01T00:00",
+      "id": "V-DDGHO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": 67,
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "VINO",
+      "id": "S-UQ5JK",
+      "menu": "POLLO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "costo": 100000,
+    "fechaHora": "2023-06-04T23:36",
+    "usuario": {
+      "apellidos": "Martínez Orozco",
+      "tipo": "ADMIN",
+      "contrasenia": "8e7a00f1daf1c2b7015459dd686856c2",
+      "id": "U-00000",
+      "nombres": "Alejandro",
+      "perfil": "Kandelee"
+    },
+    "id": "R-BJ5R6",
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT1H",
+        "id": "T-QVLWY",
+        "origen": "Manizales",
+        "destino": "Cali"
+      },
+      "estado": "A_TIEMPO",
+      "fechaHora": "2024-01-01T00:00",
+      "id": "V-DDGHO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      }
+    },
+    "silla": {
+      "posicion": "01D",
+      "columna": 68,
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "OPORTO",
+      "id": "S-M4SOF",
+      "menu": "PESCADO",
+      "avion": {
+        "modelo": "Airjet 3000",
+        "placa": "HK 2006"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "costo": 120000,
+    "fechaHora": "2023-06-04T23:36",
+    "usuario": {
+      "apellidos": "Donado",
+      "tipo": "ADMIN",
+      "contrasenia": "ffe7f0005d3fd1a0f857e1d0dd056a08",
+      "id": "U-00135",
+      "nombres": "Galar",
+      "perfil": "galero456"
+    },
+    "id": "R-UGJWZ",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT15H40M",
+        "id": "T-WWCHL",
+        "origen": "Manizales",
+        "destino": "Paris"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2023-12-31T22:00",
+      "id": "V-TR5GZ",
+      "avion": {
+        "modelo": "Airbus A321XLR",
+        "placa": "HK2023"
+      }
+    },
+    "silla": {
+      "posicion": "09D",
+      "columna": 68,
+      "ubicacion": "PASILLO",
+      "fila": 9,
+      "id": "S-DXEUY",
+      "avion": {
+        "modelo": "Airbus A321XLR",
+        "placa": "HK2023"
+      },
+      "disponible": false
+    }
+  }
+]

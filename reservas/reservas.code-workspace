@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "booking-management"
+		},
+		{
+			"path": "icaro-web"
+		},
+		{
+			"path": "icaro-web-prototype"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"liveServer.settings.multiRootWorkspaceName": "icaro-web"
+	}
+}
